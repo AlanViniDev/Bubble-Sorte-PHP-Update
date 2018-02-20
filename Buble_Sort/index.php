@@ -13,7 +13,7 @@
                 echo"<input type = 'text' class = 'input' placeholder = 'Digite número ou letra' name = 'vetor[]' required/>"; 
             }
             ?>
-            <button type = "submit"> Enviar </button>
+            <button type = "submit"> Confirmar </button>
         </form>
     </body>
 </html>
